@@ -1,6 +1,4 @@
-package opgave01.weapons;
-
-import java.util.ArrayList;
+package opgave01.character;
 
 public class Weapon {
     private String name;

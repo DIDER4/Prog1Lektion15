@@ -1,4 +1,11 @@
 package opgave01.character;
 
-public class Wizard extends Spellcaster{
+import opgave01.models.Spell;
+
+import java.util.ArrayList;
+
+public class Wizard extends Spellcaster {
+    public Wizard(String name, int level, ArrayList<Spell> spells) {
+        super(name, level, spells);
+    }
 }

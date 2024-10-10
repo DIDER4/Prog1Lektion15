@@ -1,4 +1,4 @@
-package opgave01.weapons;
+package opgave01.character;
 
 public class Ranged {
     private int range;
